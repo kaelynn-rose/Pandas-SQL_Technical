@@ -1,1 +1,2 @@
-# Pandas-SQL_Technical
+# Pandas-SQL Technical Case Study
+
